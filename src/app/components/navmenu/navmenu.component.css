@@ -1,0 +1,30 @@
+nav a {
+    color: var(--navmenu-color);
+    font-weight: 300;
+    font-size: 1.35rem;
+    letter-spacing: 1.1px;
+    text-shadow: var(--text-shadow);
+}
+
+.flex {
+    display: flex;
+    align-items: center;
+}
+
+.primary {
+    display: flex;
+    justify-content: flex-start;
+    margin: 1.75rem 0rem 0rem 10rem;
+}
+
+.secundary {
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    margin: 1.9rem 10rem 0rem 0rem;
+}
+
+.secundary>a {
+    margin-left: 4rem;
+}
+
