@@ -27,10 +27,10 @@
 
 .text>h1 {
     margin: 1rem auto .5rem auto;
-    font-weight: 700;
-    font-size: 3rem;
+/*     font-weight: 700; */
+/*     font-size: 3rem; */
     color: var(--navmenu-color);
-    letter-spacing: 1px;
+/*     letter-spacing: 1px; */
 }
 
 .text>h2 {
